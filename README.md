@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Karan Sharma 👋
 
-<!--
-**ksbyte/ksbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### QA Engineer | SDET (Manual + Automation)
 
-Here are some ideas to get you started:
+Detail-oriented QA Engineer with 1.5+ years of experience in manual and automation testing across web and mobile applications. Strong hands-on experience with Selenium WebDriver (Java), Appium (basics), REST API testing using Postman, and performance testing using JMeter. Experienced in Agile (Scrum) environments with a strong focus on quality and reliability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧪 Skills
+- Manual, Functional, Regression, Smoke, Sanity Testing  
+- Selenium WebDriver (Java), Appium (Basics)  
+- API Testing (Postman, REST APIs)  
+- Performance Testing (JMeter)  
+- Java, JavaScript (Basic)  
+- Jira, GitHub  
+- Agile (Scrum)
+
+---
+
+## 📌 Featured Projects
+- Selenium Automation Framework (Java) – *In Progress*  
+- Mobile App Automation – Android (Appium) – *In Progress*  
+- API Testing using Postman – *In Progress*
+
+---
+
+## 📫 Contact
+- 📧 Email: karansharma17524@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/karan-sharma-534636319
