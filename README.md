@@ -10,7 +10,7 @@ Detail-oriented QA Engineer with 2+ years of experience in manual and automation
 - Manual, Functional, Regression, Smoke, Sanity Testing  
 - Selenium WebDriver (Java), Appium (Basics)  
 - API Testing (Postman, REST APIs)  
-- Performance Testing (JMeter)  
+- MySQL
 - Java, JavaScript (Basic)  
 - Jira, GitHub  
 - Agile (Scrum)
