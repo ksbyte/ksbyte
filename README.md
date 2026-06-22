@@ -2,7 +2,7 @@
 
 ### QA Engineer | SDET (Manual + Automation)
 
-Detail-oriented QA Engineer with 1.5+ years of experience in manual and automation testing across web and mobile applications. Strong hands-on experience with Selenium WebDriver (Java), Appium (basics), REST API testing using Postman, and performance testing using JMeter. Experienced in Agile (Scrum) environments with a strong focus on quality and reliability.
+Detail-oriented QA Engineer with 2+ years of experience in manual and automation testing across web and mobile applications. Strong hands-on experience with Selenium WebDriver (Java), Appium (basics), REST API testing using Postman, and performance testing using JMeter. Experienced in Agile (Scrum) environments with a strong focus on quality and reliability.
 
 ---
 
